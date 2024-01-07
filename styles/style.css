@@ -1,0 +1,107 @@
+.banner {
+
+    background-image: url('../B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png');
+   
+    
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-position: center;
+    border-radius: 16px;
+
+    height: 350px;
+    max-width: 1000px;
+    margin: 0 auto;
+   
+.try{border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    height: 350px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+    
+}
+.banner-title{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+.banner-title-2{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+width: 632px;
+margin-top: 0;
+}
+.happy-new-year{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    width: 70%;
+    margin: 0 auto;
+}
+.section-title{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+}
+.section-description{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.banner-title-2{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.midnight-party{
+    background-image: url('../B9A1-New-Year-New-Mission-main/resources/Vectorrr.png');
+    width: 1000px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.join-now{
+   
+    width: 1000px;
+height: 300px;
+
+background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 50px auto;
+}
